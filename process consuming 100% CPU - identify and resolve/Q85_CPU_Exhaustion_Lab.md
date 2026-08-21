@@ -109,13 +109,13 @@ sudo kill -9 12345
 
 To cleanly wipe the testing loop from your local development workstation environment:
 
-
-
-
-<img width="1918" height="1077" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/7c62c056-4957-431c-9df9-00d66bbe1efe" />
-
-
 ```bash
 # Identify and terminate any remaining background python simulation containers
 kill $(pgrep -f "rogue_worker") 2>/dev/null
 ```
+
+
+
+
+
+<img width="1918" height="1077" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/7c62c056-4957-431c-9df9-00d66bbe1efe" />
