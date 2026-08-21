@@ -128,3 +128,13 @@ cd ~
 sudo umount /mnt/phantom-lab
 sudo rm -rf /mnt/phantom-lab /tmp/phantom-disk.img
 ```
+
+
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/4dbfc8dc-9fc1-4cc1-bb02-f179ec1bbfe7" />
+
+
+
+
+<img width="1927" height="1068" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/1da97fed-b00d-48ca-850a-f656ae2e01e8" />
+
+
