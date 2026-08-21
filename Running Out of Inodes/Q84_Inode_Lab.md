@@ -87,3 +87,7 @@ cd ~
 sudo umount /mnt/inode-lab
 sudo rm -rf /mnt/inode-lab /tmp/inode-disk.img
 ```
+
+
+
+<img width="1357" height="765" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/36bbf52a-4784-4b42-b168-6614fcfd0660" />
