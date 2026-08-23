@@ -68,3 +68,9 @@ To dynamically immunize a running application daemon process on the fly without 
 ```bash
 echo -1000 | sudo tee /proc/<PID>/oom_score_adj
 ```
+
+
+
+<img width="1914" height="1068" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/aed638c7-7529-4798-82f2-df39864c32e9" />
+
+
