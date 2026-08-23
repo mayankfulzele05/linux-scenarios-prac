@@ -70,3 +70,6 @@ sudo logrotate -f /etc/logrotate.d/custom_app
    logrotate -d /etc/logrotate.d/myapp
    ```
 2. Set explicit system retention alerts at **80% total disk capacity markers** inside the `/var` infrastructure tree.
+
+
+<img width="1908" height="1068" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/b745b244-5452-437f-9cdd-c322a425a58d" />
