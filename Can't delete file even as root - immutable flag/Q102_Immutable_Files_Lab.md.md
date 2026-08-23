@@ -61,3 +61,7 @@ In production DevOps structures, leverage the immutable attribute proactively to
 # Secure the critical local DNS configuration against automated DHCP overriding
 sudo chattr +i /etc/resolv.conf
 ```
+
+
+
+<img width="1908" height="1055" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/4267f5a1-9ffc-4282-a7f1-bfb2c8f2cf6e" />
